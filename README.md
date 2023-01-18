@@ -1,8 +1,10 @@
 ## OSTEP
 
-[OSTEP(**Operating Systems: Three Easy Pieces**)](https://pages.cs.wisc.edu/~remzi/OSTEP/)is centered around three conceptual pieces that are fundamental to operating systems: **virtualization,** **concurrency,** and **persistence.**
+[OSTEP(Operating Systems: Three Easy Pieces)](https://pages.cs.wisc.edu/~remzi/OSTEP/)is centered around three conceptual pieces that are fundamental to operating systems: **virtualization,** **concurrency,** and **persistence.**
 
 ## Resources
+
+[CS537-sp18](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)
 
 [homework](https://github.com/remzi-arpacidusseau/ostep-homework)
 
